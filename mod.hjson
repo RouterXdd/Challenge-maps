@@ -1,0 +1,6 @@
+  displayName: "Challenge maps"
+  name: "challenge"
+  author: "RouterXdd"
+  description: "Adds the challenges"
+  version: "1.0"
+  minGameVersion: 136
