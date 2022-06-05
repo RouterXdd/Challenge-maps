@@ -4,3 +4,4 @@
   description: "Adds the challenges"
   version: "1.0"
   minGameVersion: 136
+  hidden:true
